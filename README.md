@@ -1,5 +1,5 @@
 ![MasterHead](https://img.freepik.com/free-vector/app-development-illustration_52683-47743.jpg?size=626&ext=jpg)
-<h1 align="center">Hi 👋, I'm Esther Cyntia</h1>
+<h1 align="center">Hi 👋, I'm Esther Cynthia</h1>
 <h3 align="center">A passionate Android developer from Kenya</h3>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 
