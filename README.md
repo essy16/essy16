@@ -12,7 +12,11 @@
 
 - 📫 How to reach me **essycynthia7@gmail,com**
 
-- ⚡ Fun fact **I think I am funny. I love coding. I love making new friends. I love contributing to open-source projects.I love watching series.**
+- ⚡ Fun fact **I think I am funny. 
+I love coding. 
+I love making new friends. 
+I love contributing to open-source projects.
+I love watching series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
