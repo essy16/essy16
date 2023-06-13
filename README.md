@@ -1,13 +1,13 @@
 ![MasterHead](https://img.freepik.com/free-vector/app-development-illustration_52683-47743.jpg?size=626&ext=jpg)
 <h1 align="center">Hi 👋, I'm Esther Cynthia</h1>
 <h3 align="center">A passionate Android developer from Kenya</h3>
-<!-- (img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif") -->
+<!-- (img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif") -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essy16&label=Profile%20views&color=0e75b6&style=flat" alt="essy16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=essy16" alt="essy16" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/essyc14" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/essyc14?logo=twitter&style=for-the-badge" alt="https://twitter.com/essyc14" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/essyc14" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/essyc14?logo=twitter&style=for-the-badge" alt="https://twitter.com/essyc14" /></a> </p> -->
 
 - 👯 I’m looking to collaborate on **Android Open Source Projects**
 
