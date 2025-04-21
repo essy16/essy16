@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/app-development-illustration_52683-47743.jpg?size=626&ext=jpg)
 <h1 align="center">Hi 👋, I'm Esther Cynthia</h1>
-<h3 align="center">A passionate Android developer from Kenya</h3>
+<h3 align="center">A passionate Full Stack Mobile and Web developer from Kenya</h3>
 <!-- (img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif") -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essy16&label=Profile%20views&color=0e75b6&style=flat" alt="essy16" /> </p>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Open Source Projects**
 
-- 💬 Ask me about **Java,Kotlin,Android**
+- 💬 Ask me about **Java,Kotlin,Android, Web**
 
 - 📫 How to reach me **essycynthia7@gmail.com**
 
